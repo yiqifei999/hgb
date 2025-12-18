@@ -1,0 +1,1 @@
+chrome-extension://capganbaogpgmmlkboomnkdaoghepcng/js/shopify-script.js
